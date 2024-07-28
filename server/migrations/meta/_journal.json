@@ -15,6 +15,20 @@
       "when": 1722105950710,
       "tag": "0001_fair_hiroim",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1722162387505,
+      "tag": "0002_daffy_eternals",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1722167125518,
+      "tag": "0003_uneven_hellfire_club",
+      "breakpoints": true
     }
   ]
 }
